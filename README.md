@@ -1,6 +1,6 @@
 # Sayanoyudokoro
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/sayanoyudokoro`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to sayanoyudokoro gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/sayanoyudokoro`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
 
@@ -16,7 +16,13 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
 ## Usage
 
-TODO: Write usage instructions here
+
+```ruby
+irb(main):003:0> require 'sayanoyudokoro'
+=> true
+irb(main):004:0> Sayanoyudokoro::Congestion.current_status
+=> {:time=>2023-02-02 14:00:00 +0900, :degree=>3}
+```
 
 ## Development
 
