@@ -2,7 +2,11 @@
 
 Welcome to sayanoyudokoro gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/sayanoyudokoro`. To experiment with that code, run `bin/console` for an interactive prompt.
 
-TODO: Delete this and the text above, and describe your gem
+[Sayanoyudokoro](https://www.sayanoyudokoro.co.jp/) shows the degree of congestion in the hall but the congestion is shown by image so that it's hard to analyze by computer.
+
+This gem returns congestion as a numeric number for analysis.
+![image](https://user-images.githubusercontent.com/98103/216239694-350dfbce-ee29-4ae9-982d-9599c008b229.png)
+
 
 ## Installation
 
