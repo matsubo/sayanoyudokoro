@@ -1,4 +1,6 @@
-# Sayanoyudokoro
+# Sayanoyudokoro (前野原温泉 さやの湯処)
+
+![example workflow](https://github.com/matsubo/sayanoyudokoro/actions/workflows/main.yml/badge.svg)
 
 Welcome to sayanoyudokoro gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/sayanoyudokoro`. To experiment with that code, run `bin/console` for an interactive prompt.
 
